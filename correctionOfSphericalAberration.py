@@ -132,7 +132,7 @@ def load_images_from_folder(folder):
         images.append(folder + filename)
     return images
 
-image_path_list = load_images_from_folder('./InputImagesSelectionSet6/')
+image_path_list = load_images_from_folder('./InputImagesSelectionSet1/')
 scan_size = 15
 aligned_images = []
 img_for_alignment = ""
