@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="749e1646-c339-4b01-8e43-c207b0cbc962" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/correctionOfSphericalAberration.py" beforeDir="false" afterPath="$PROJECT_DIR$/correctionOfSphericalAberration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipeline.drawio" beforeDir="false" afterPath="$PROJECT_DIR$/pipeline.drawio" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
